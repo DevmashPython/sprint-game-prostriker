@@ -57,3 +57,10 @@ def right(flag):
 
 while(1):
 	right(flag)
+
+	
+''' 
+1. Mention controls for the game before the game is started!
+ex. Press D to move right
+2. After the game in finished, the program should end.
+'''
